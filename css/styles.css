@@ -39,13 +39,8 @@ Page-header
   display: flex;
   align-items: center;
   justify-content: space-between;
+  border-bottom: 1px solid #ECECEC;
 }
-.header-container-portfolio {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    border: var(--card-shadow);
-  }
 .logo {
   font-family: Raleway;
   font-weight: 700;
