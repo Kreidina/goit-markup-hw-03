@@ -322,7 +322,7 @@ portfolio
   margin-right: 8px;
 }
 .filter-button {
-  border-color: var(--bgr-button);
+  border:none;
   padding: 6px 22px;
 }
 .button {
