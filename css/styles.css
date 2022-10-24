@@ -133,11 +133,8 @@ Hero
   line-height: 1.87;
   letter-spacing: 0.06em;
 
-  /* display: inline-block; */
   padding: 10px 32px;
-  /* border-radius: 4px; */
-  border-color: var(--accent-color);
-  /* align-content: center; */
+  border:none;
 }
 .hero .button:hover,
 .hero .button:focus {
